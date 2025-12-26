@@ -1,8 +1,5 @@
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e028f193-9275-4a3d-b15f-551a02ed0f7f" /># 🏔️ Karabakh Hub - Smart Village Digital Ecosystem
 
-![Hackathon Achievement](https://img.shields.com/badge/Hackathon-2nd%20Place-silver?style=for-the-badge&logo=target)
-![React](https://img.shields.com/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.com/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Karabakh Hub** is a comprehensive digital bridge designed for the "Smart Village" reconstruction projects in Karabakh. Developed during the **"Green Karabakh" Hackathon 2025**, this project secured **2nd Place** for its innovative approach to social and economic integration.
 
